@@ -1,0 +1,19 @@
+
+header{
+    display: flex;
+    height: 70px;
+    background-color: #AEB6BF ;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.LOGE{
+    display: flex;
+    align-items: center;
+}
+
+.LOGE img{
+    height: 40px;
+    margin-right: 10px;
+}
